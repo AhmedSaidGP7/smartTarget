@@ -1,7 +1,7 @@
 /* Navbar clasess */
 
 .bg-light {
-  background: #212121 !important;
+  background: #3fbbed !important;
  box-shadow: 0 2px 4px rgb(0 0 0 / 50%);
 }
 .targemHome-navbarLangIcon
@@ -187,7 +187,7 @@
 .home-whatwedosection
 {
   min-height: 600px;
-  background-color: #212121;
+  background-color: #f6f6f6;
   padding: 70px 0px 60px 0px;
   margin-bottom: 70px;
 }
@@ -204,14 +204,14 @@
 
 #ourservices .bg-body
 {
-  background-color: #2e2e2e !important;
+  background-color: #ffffff !important;
   
 }
 
 .home-whatwedotitle
 {
   margin-bottom: 15px;
-  color: white;
+  color: #42bffa;
   font-family: "Lato", Sans-serif;
   font-size: 24px;
   font-weight: 600;
@@ -237,7 +237,7 @@
 
 #home-footer
 {
-  background: #212121 !important;
+  background: #3fbbed !important;
   box-shadow: 0 2px 4px rgb(0 0 0 / 50%);
   color: white;
   width: 100%;
