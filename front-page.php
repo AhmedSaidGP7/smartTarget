@@ -23,6 +23,9 @@
         <!-- End Css frameworks -->
 
         <!-- main Style -->
+        <?php 
+            wp-head();
+        ?>
         <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
         <link href="https://fonts.googleapis.com/css?family=Cairo&display=swap" rel="stylesheet">
         <!-- End Style -->
