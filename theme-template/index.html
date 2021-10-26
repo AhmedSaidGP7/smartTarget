@@ -23,8 +23,7 @@
         <!-- End Css frameworks -->
 
         <!-- main Style -->
-        <link rel="stylesheet" type="text/css" href="assets/css/classes.css" />
-        <link rel="stylesheet" type="text/css" href="assets/css/main.css" />
+        <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
         <link href="https://fonts.googleapis.com/css?family=Cairo&display=swap" rel="stylesheet">
         <!-- End Style -->
 
