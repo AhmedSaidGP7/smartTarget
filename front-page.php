@@ -24,7 +24,7 @@
 
         <!-- main Style -->
         
-        <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+        <link rel="stylesheet" type="text/css" href="https://mwatansuez.com/test/wp-content/menewtheme/style.css" />
         <link href="https://fonts.googleapis.com/css?family=Cairo&display=swap" rel="stylesheet">
         <!-- End Style -->
 
