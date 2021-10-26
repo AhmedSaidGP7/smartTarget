@@ -23,9 +23,7 @@
         <!-- End Css frameworks -->
 
         <!-- main Style -->
-        <?php 
-            wp-head();
-        ?>
+        
         <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
         <link href="https://fonts.googleapis.com/css?family=Cairo&display=swap" rel="stylesheet">
         <!-- End Style -->
@@ -43,6 +41,10 @@
         <meta name="revisit-after" content="1 days">
         <meta name="web_author" content="">
         <!-- End meta tags -->
+
+        <?php 
+            wp-head();
+        ?>
     </head>
     <body>
         <!--Start Navbar-->
