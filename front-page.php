@@ -43,7 +43,7 @@
         <!-- End meta tags -->
 
         <?php 
-            wp-head();
+            wp_head();
         ?>
     </head>
     <body>
