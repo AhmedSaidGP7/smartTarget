@@ -1,5 +1,5 @@
 <?php
-    get_header('smart');
+    get_header();
 ?>
 
 
