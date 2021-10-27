@@ -21,7 +21,7 @@ function smartTarget_regsiter_scripts(){
    
 }
 
-add_action('wp_enqueue_scripts', 'smartTarget_regsiter_styles');
+add_action('wp_enqueue_scripts', 'smartTarget_regsiter_scripts');
 
 
 
