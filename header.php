@@ -3,7 +3,7 @@
     <head>
          <!-- title -->
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <title>Home - Smart Target Kuwait</title>
+        
         <!-- End title -->
 
         <!-- icon -->
