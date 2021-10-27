@@ -22,7 +22,7 @@ function smartTarget_menus()
     register_nav_menus($locations);
 }
 
-add_action('init', 'smartTarget_menus')
+add_action('init', 'smartTarget_menus');
 
 
 // Style in head 
