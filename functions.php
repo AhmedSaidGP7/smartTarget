@@ -9,6 +9,22 @@ function smartTarget_theme_support(){
 add_action('after_setup_theme','smartTarget_theme_support');
 
 
+// Menus
+function smartTarget_menus()
+{
+    $locations = array(
+
+        'primary' => "Desktop Navbar", 
+        'footer' => "Footer Menu Items",
+        'arabic' => "Arabic Menu Items"
+    );
+
+    register_nav_menus($locations);
+}
+
+add_action('init', 'smartTarget_menus')
+
+
 // Style in head 
 function smartTarget_regsiter_styles(){
     $version = wp_get_theme()->get('Version');
