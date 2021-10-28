@@ -55,7 +55,7 @@
                         'menu' => 'primary',
                          'container' => '',
                         'theme_location' => 'primary',
-                        'items_warp' => '<ul id="" class="FUCK">%3$s</ul>'
+                        'items_warp' => ' <ul id="" class="navbar-nav ms-auto mb-2 mb-lg-0"> </ul>'
                     )
                 );
               ?> 
