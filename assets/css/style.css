@@ -52,8 +52,7 @@
   
 }
 
-.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link
-{
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show> a{
   color: white;
   font-weight: bold;
   border-bottom: 3px white solid;
@@ -71,7 +70,7 @@
 
 } 
 
-.navbar-light .navbar-nav .nav-link:link
+.navbar-light .navbar-nav a:link
 {
   color: white;
   
