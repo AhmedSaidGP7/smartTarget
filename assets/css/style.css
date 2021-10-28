@@ -35,7 +35,7 @@
   width: 160px;
 }
 
-.navbar-light .navbar-nav .nav-link
+.navbar-light .navbar-nav a
 {
   color: white;
   margin-left: 20px;
@@ -45,7 +45,7 @@
  
 }
 
-.navbar-light .navbar-nav .nav-link:hover
+.navbar-light .navbar-nav a:hover
 {
   color: white;
   border-bottom: 3px white solid;
