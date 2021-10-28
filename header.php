@@ -53,9 +53,9 @@
                 wp_nav_menu(
                     array(
                         'menu' => 'primary',
-                        'container' => '',
+                         'container' => '',
                         'theme_location' => 'primary',
-                        'items_warp' => '<ul id="" class="navbar-nav ms-auto mb-2 mb-lg-0">%3$s</ul>'
+                        'items_warp' => '<ul id="" class="">%3$s</ul>'
                     )
                 );
               ?>
