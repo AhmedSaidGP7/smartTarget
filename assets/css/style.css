@@ -389,7 +389,7 @@ nav ul a {
 
 nav ul a:hover {
   color: white;
-  border-bottom: 3px white solid;
+  
 }
 
 nav ul a:link {
@@ -398,5 +398,5 @@ nav ul a:link {
 
 nav ul a:active {
   font-weight: bold;
-  border-bottom: 3px white solid;
+  
 }
