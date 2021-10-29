@@ -35,7 +35,7 @@
   width: 160px;
 }
 
-.navbar-light .navbar-nav a
+.navbar-light .navbar-nav .nav-link
 {
   color: white;
   margin-left: 20px;
@@ -45,14 +45,15 @@
  
 }
 
-.navbar-light .navbar-nav a:hover
+.navbar-light .navbar-nav .nav-link:hover
 {
   color: white;
   border-bottom: 3px white solid;
   
 }
 
-.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show> a{
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link
+{
   color: white;
   font-weight: bold;
   border-bottom: 3px white solid;
@@ -70,7 +71,7 @@
 
 } 
 
-.navbar-light .navbar-nav a:link
+.navbar-light .navbar-nav .nav-link:link
 {
   color: white;
   
@@ -374,3 +375,13 @@ color: red;
 width: 4.25em;
 }
 /* Logo slider */
+
+
+/* Wordpress navbar */
+nav ul a {
+  color: white;
+  margin-left: 20px;
+  font-family: "Lato", Sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
