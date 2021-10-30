@@ -38,6 +38,12 @@
         <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
             <div class="container">
               <a class="navbar-brand" href="#">
+                <?php
+                if(function_exists('the_custom_logo'))
+                {
+                  the_custom_logo();
+                }
+                ?>
                 <img src="assets/images/logo.png" alt="" class="brandlogo">
               </a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
