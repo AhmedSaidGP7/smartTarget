@@ -47,7 +47,7 @@
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="assets/images/why-us-icon1.png" alt="" class=""> 
+                        <img src="<?php get_template_directory_uri() . "/assets/images/1.png" ?>" alt="" class=""> 
                       </div>
                       <h5 class="card-title text-center home-whyus-reasontitle">13 Years Of Experience</h5>
                       <p class="card-text text-center home-whyus-reason">Smart Target was established in 2008 with a strict focus on the growth of its client base and providing them with added value to transport them to the next level.</p>

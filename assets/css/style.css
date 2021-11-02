@@ -399,3 +399,8 @@ nav ul a:active {
   font-weight: bold;
   
 }
+
+.nav-item {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
