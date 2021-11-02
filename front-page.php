@@ -47,7 +47,7 @@
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="wp-content/themes/smarttarget/assets/images/experience.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/experience.png" alt="" class="smarttarget-home-whyicon"> 
                       </div>
                       <h5 class="card-title text-center home-whyus-reasontitle">13 Years Of Experience</h5>
                       <p class="card-text text-center home-whyus-reason">Smart Target was established in 2008 with a strict focus on the growth of its client base and providing them with added value to transport them to the next level.</p>
@@ -61,7 +61,7 @@
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="wp-content/themes/smarttarget/assets/images/experts.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/experts.png" alt="" class="smarttarget-home-whyicon"> 
                       </div>
                       <h5 class="card-title text-center home-whyus-reasontitle">13 Years Of Experience</h5>
                       <p class="card-text text-center home-whyus-reason">Smart Target was established in 2008 with a strict focus on the growth of its client base and providing them with added value to transport them to the next level.</p>
@@ -75,7 +75,7 @@
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="wp-content/themes/smarttarget/assets/images/deadline.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/deadline.png" alt="" class="smarttarget-home-whyicon"> 
                       </div>
                       <h5 class="card-title text-center home-whyus-reasontitle">13 Years Of Experience</h5>
                       <p class="card-text text-center home-whyus-reason">Smart Target was established in 2008 with a strict focus on the growth of its client base and providing them with added value to transport them to the next level.</p>
@@ -89,7 +89,7 @@
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="wp-content/themes/smarttarget/assets/images/smiley.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/smiley.png" alt="" class="smarttarget-home-whyicon"> 
                       </div>
                       <h5 class="card-title text-center home-whyus-reasontitle">13 Years Of Experience</h5>
                       <p class="card-text text-center home-whyus-reason">Smart Target was established in 2008 with a strict focus on the growth of its client base and providing them with added value to transport them to the next level.</p>

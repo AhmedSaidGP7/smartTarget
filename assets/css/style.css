@@ -404,3 +404,8 @@ nav ul a:active {
   margin-bottom: 10px;
   margin-top: 10px;
 }
+
+.smarttarget-home-whyicon
+{
+  max-width: 150px;
+}
