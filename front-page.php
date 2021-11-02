@@ -113,7 +113,7 @@
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="assets/images/development-img.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/development-img.png" alt="" class=""> 
                       </div>
                       <h5 class="card-title text-center home-whatwedotitle">Creative Branding</h5>
         
@@ -127,7 +127,7 @@
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="assets/images/development-img.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/development-img.png" alt="" class=""> 
                       </div>
                       <h5 class="card-title text-center home-whatwedotitle">Creative Branding</h5>
         
@@ -141,7 +141,7 @@
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="assets/images/development-img.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/development-img.png" alt="" class=""> 
                       </div>
                       <h5 class="card-title text-center home-whatwedotitle">Creative Branding</h5>
         
@@ -156,7 +156,7 @@
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="assets/images/development-img.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/development-img.png" alt="" class=""> 
                       </div>
                       <h5 class="card-title text-center home-whatwedotitle">Creative Branding</h5>
         
@@ -170,7 +170,7 @@
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="assets/images/development-img.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/development-img.png" alt="" class=""> 
                       </div>
                       <h5 class="card-title text-center home-whatwedotitle">Creative Branding</h5>
         
@@ -184,7 +184,7 @@
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="assets/images/development-img.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/development-img.png" alt="" class=""> 
                       </div>
                       <h5 class="card-title text-center home-whatwedotitle">Creative Branding</h5>
         
@@ -198,7 +198,7 @@
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="assets/images/development-img.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/development-img.png" alt="" class=""> 
                       </div>
                       <h5 class="card-title text-center home-whatwedotitle">Creative Branding</h5>
         
@@ -212,7 +212,7 @@
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="assets/images/development-img.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/development-img.png" alt="" class=""> 
                       </div>
                       <h5 class="card-title text-center home-whatwedotitle">Creative Branding</h5>
         
@@ -233,56 +233,56 @@
 
                 <!-- Start logo -->
                 <div class="col d-flex justify-content-center align-middle">
-                  <img src="assets/images/1.png" alt="" class="home-ourclients">
+                  <img src="wp-content/themes/smarttarget/assets/images/1.png" alt="" class="home-ourclients">
                 </div>
                 <!--End logo-->
 
                 <!-- Start logo -->
                 <div class="col d-flex justify-content-center align-middle">
-                  <img src="assets/images/2.png" alt="" class="home-ourclients">
+                  <img src="wp-content/themes/smarttarget/assets/images/2.png" alt="" class="home-ourclients">
                 </div>
                 <!--End logo-->
 
                 <!-- Start logo -->
                 <div class="col d-flex justify-content-center align-middle">
-                  <img src="assets/images/3.png" alt="" class="home-ourclients">
+                  <img src="wp-content/themes/smarttarget/assets/images/3.png" alt="" class="home-ourclients">
                 </div>
                 <!--End logo-->
 
 
                 <!-- Start logo -->
                 <div class="col d-flex justify-content-center align-middle">
-                  <img src="assets/images/4.png" alt="" class="home-ourclients">
+                  <img src="wp-content/themes/smarttarget/assets/images/4.png" alt="" class="home-ourclients">
                 </div>
                 <!--End logo-->
 
                 <!-- Start logo -->
                 <div class="col d-flex justify-content-center align-middle">
-                  <img src="assets/images/5.png" alt="" class="home-ourclients">
+                  <img src="wp-content/themes/smarttarget/assets/images/5.png" alt="" class="home-ourclients">
                 </div>
                 <!--End logo-->
 
                 <!-- Start logo -->
                 <div class="col d-flex justify-content-center align-middle">
-                  <img src="assets/images/6.png" alt="" class="home-ourclients">
+                  <img src="wp-content/themes/smarttarget/assets/images/6.png" alt="" class="home-ourclients">
                 </div>
                 <!--End logo-->
 
                 <!-- Start logo -->
                 <div class="col d-flex justify-content-center align-middle">
-                  <img src="assets/images/7.png" alt="" class="home-ourclients">
+                  <img src="wp-content/themes/smarttarget/assets/images/7.png" alt="" class="home-ourclients">
                 </div>
                 <!--End logo-->
 
                 <!-- Start logo -->
                 <div class="col d-flex justify-content-center align-middle">
-                  <img src="assets/images/8.png" alt="" class="home-ourclients">
+                  <img src="wp-content/themes/smarttarget/assets/images/8.png" alt="" class="home-ourclients">
                 </div>
                 <!--End logo-->
 
                 <!-- Start logo -->
                 <div class="col d-flex justify-content-center align-middle">
-                  <img src="assets/images/9.png" alt="" class="home-ourclients">
+                  <img src="wp-content/themes/smarttarget/assets/images/9.png" alt="" class="home-ourclients">
                 </div>
                 <!--End logo-->
                 
