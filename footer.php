@@ -2,35 +2,35 @@
             <footer id="home-footer" class="py-5">
               <div class="row">
                 <div class="col-lg-2 col-md-4 col-sm-12">
-                  <h5>Section</h5>
+                  <h5>Website map</h5>
                   <ul class="nav flex-column">
                     <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Home</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Features</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Pricing</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">FAQs</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">About</a></li>
+                    <li class="nav-item mb-2"><a href="services" class="nav-link p-0 text-white">Services</a></li>
+                    <li class="nav-item mb-2"><a href="usecases" class="nav-link p-0 text-white">Use Cases</a></li>
+                    <li class="nav-item mb-2"><a href="blog" class="nav-link p-0 text-white">Blog</a></li>
+                    <li class="nav-item mb-2"><a href="about" class="nav-link p-0 text-white">About Us</a></li>
+                    <li class="nav-item mb-2"><a href="contact" class="nav-link p-0 text-white">Contact Us</a></li>
                   </ul>
                 </div>
           
                 <div class="col-lg-2 col-md-4 col-sm-12">
-                  <h5>Section</h5>
+                  <h5>Creative Solutions</h5>
                   <ul class="nav flex-column">
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Home</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Features</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Pricing</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">FAQs</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">About</a></li>
+                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Branding</a></li>
+                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Marketing Strategies</a></li>
+                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Advertising</a></li>
+                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Content Creation</a></li>
+
                   </ul>
                 </div>
           
                 <div class="col-lg-2 col-md-4 col-sm-12">
-                  <h5>Section</h5>
+                  <h5>Technical Solutions</h5>
                   <ul class="nav flex-column">
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Home</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Features</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Pricing</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">FAQs</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">About</a></li>
+                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Web Solutions</a></li>
+                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Photography & Videos</a></li>
+                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Voice Over</a></li>
+                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Social Media Management</a></li>
                   </ul>
                 </div>
           
