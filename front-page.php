@@ -108,118 +108,113 @@
                   <div class="col-12">
                     <h1 class="home-whatwedoh1">WHAT WE DO</h1>
                   </div>
+
                   <!--Start Card-->
                 <div class="col d-flex justify-content-center">
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="wp-content/themes/smarttarget/assets/images/development-img.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/branding.png" alt="" class=""> 
                       </div>
                       <h5 class="card-title text-center home-whatwedotitle">Creative Branding</h5>
+                      <p class="card-text text-center home-whyus-reason">Branding is what transforms first-time buyers into lifetime customers and turns an indifferent audience into brand evangelists.</p>
         
                     </div>
                   </div>
                 </div>
                 <!--End Card-->
 
-                <!--Start Card-->
-                <div class="col d-flex justify-content-center">
+                  <!--Start Card-->
+                  <div class="col d-flex justify-content-center">
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="wp-content/themes/smarttarget/assets/images/development-img.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/branding.png" alt="" class=""> 
                       </div>
                       <h5 class="card-title text-center home-whatwedotitle">Creative Branding</h5>
+                      <p class="card-text text-center home-whyus-reason">Branding is what transforms first-time buyers into lifetime customers and turns an indifferent audience into brand evangelists.</p>
         
                     </div>
                   </div>
                 </div>
                 <!--End Card-->
 
-                <!--Start Card-->
-                <div class="col d-flex justify-content-center">
+                  <!--Start Card-->
+                  <div class="col d-flex justify-content-center">
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="wp-content/themes/smarttarget/assets/images/development-img.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/branding.png" alt="" class=""> 
                       </div>
                       <h5 class="card-title text-center home-whatwedotitle">Creative Branding</h5>
+                      <p class="card-text text-center home-whyus-reason">Branding is what transforms first-time buyers into lifetime customers and turns an indifferent audience into brand evangelists.</p>
         
                     </div>
                   </div>
                 </div>
                 <!--End Card-->
 
-
-                <!--Start Card-->
-                <div class="col d-flex justify-content-center">
+                  <!--Start Card-->
+                  <div class="col d-flex justify-content-center">
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="wp-content/themes/smarttarget/assets/images/development-img.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/branding.png" alt="" class=""> 
                       </div>
                       <h5 class="card-title text-center home-whatwedotitle">Creative Branding</h5>
+                      <p class="card-text text-center home-whyus-reason">Branding is what transforms first-time buyers into lifetime customers and turns an indifferent audience into brand evangelists.</p>
         
                     </div>
                   </div>
                 </div>
                 <!--End Card-->
 
-                <!--Start Card-->
-                <div class="col d-flex justify-content-center">
+                  <!--Start Card-->
+                  <div class="col d-flex justify-content-center">
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="wp-content/themes/smarttarget/assets/images/development-img.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/branding.png" alt="" class=""> 
                       </div>
                       <h5 class="card-title text-center home-whatwedotitle">Creative Branding</h5>
+                      <p class="card-text text-center home-whyus-reason">Branding is what transforms first-time buyers into lifetime customers and turns an indifferent audience into brand evangelists.</p>
         
                     </div>
                   </div>
                 </div>
                 <!--End Card-->
 
-                <!--Start Card-->
-                <div class="col d-flex justify-content-center">
+                  <!--Start Card-->
+                  <div class="col d-flex justify-content-center">
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="wp-content/themes/smarttarget/assets/images/development-img.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/branding.png" alt="" class=""> 
                       </div>
                       <h5 class="card-title text-center home-whatwedotitle">Creative Branding</h5>
+                      <p class="card-text text-center home-whyus-reason">Branding is what transforms first-time buyers into lifetime customers and turns an indifferent audience into brand evangelists.</p>
         
                     </div>
                   </div>
                 </div>
                 <!--End Card-->
 
-                <!--Start Card-->
-                <div class="col d-flex justify-content-center">
+                  <!--Start Card-->
+                  <div class="col d-flex justify-content-center">
                   <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
                     <div class="card-body">
                       <div class="d-flex justify-content-center">
-                        <img src="wp-content/themes/smarttarget/assets/images/development-img.png" alt="" class=""> 
+                        <img src="wp-content/themes/smarttarget/assets/images/branding.png" alt="" class=""> 
                       </div>
                       <h5 class="card-title text-center home-whatwedotitle">Creative Branding</h5>
+                      <p class="card-text text-center home-whyus-reason">Branding is what transforms first-time buyers into lifetime customers and turns an indifferent audience into brand evangelists.</p>
         
                     </div>
                   </div>
                 </div>
                 <!--End Card-->
 
-                <!--Start Card-->
-                <div class="col d-flex justify-content-center">
-                  <div class="card shadow p-3 mb-5 bg-body rounded" style="width: 18rem;">
-                    <div class="card-body">
-                      <div class="d-flex justify-content-center">
-                        <img src="wp-content/themes/smarttarget/assets/images/development-img.png" alt="" class=""> 
-                      </div>
-                      <h5 class="card-title text-center home-whatwedotitle">Creative Branding</h5>
-        
-                    </div>
-                  </div>
-                </div>
-                <!--End Card-->
+              
                 </div>
               </div>
             </section>
