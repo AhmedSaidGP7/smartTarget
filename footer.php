@@ -4,7 +4,7 @@
                 <div class="col-lg-2 col-md-4 col-sm-12">
                   <h5>Website map</h5>
                   <ul class="nav flex-column">
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Home</a></li>
+                    <li class="nav-item mb-2"><a href="https://smarttargetkwt.com/" class="nav-link p-0 text-white">Home</a></li>
                     <li class="nav-item mb-2"><a href="services" class="nav-link p-0 text-white">Services</a></li>
                     <li class="nav-item mb-2"><a href="usecases" class="nav-link p-0 text-white">Use Cases</a></li>
                     <li class="nav-item mb-2"><a href="blog" class="nav-link p-0 text-white">Blog</a></li>
@@ -16,10 +16,10 @@
                 <div class="col-lg-2 col-md-4 col-sm-12">
                   <h5>Creative Solutions</h5>
                   <ul class="nav flex-column">
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Branding</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Marketing Strategies</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Advertising</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Content Creation</a></li>
+                    <li class="nav-item mb-2"><a href="branding" class="nav-link p-0 text-white">Branding</a></li>
+                    <li class="nav-item mb-2"><a href="marketing" class="nav-link p-0 text-white">Marketing Strategies</a></li>
+                    <li class="nav-item mb-2"><a href="advertising" class="nav-link p-0 text-white">Advertising</a></li>
+                    <li class="nav-item mb-2"><a href="Content" class="nav-link p-0 text-white">Content Creation</a></li>
 
                   </ul>
                 </div>
@@ -27,10 +27,10 @@
                 <div class="col-lg-2 col-md-4 col-sm-12">
                   <h5>Technical Solutions</h5>
                   <ul class="nav flex-column">
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Web Solutions</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Photography & Videos</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Voice Over</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Social Media Management</a></li>
+                    <li class="nav-item mb-2"><a href="web" class="nav-link p-0 text-white">Web Solutions</a></li>
+                    <li class="nav-item mb-2"><a href="photography" class="nav-link p-0 text-white">Photography & Videos</a></li>
+                    <li class="nav-item mb-2"><a href="voiceover" class="nav-link p-0 text-white">Voice Over</a></li>
+                    <li class="nav-item mb-2"><a href="socialmedia" class="nav-link p-0 text-white">Social Media Management</a></li>
                   </ul>
                 </div>
           
