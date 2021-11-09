@@ -15,7 +15,10 @@ add_action('after_setup_theme','smartTarget_theme_support');
 function smartTarget_menus()
 {
   
-    register_nav_menus('bootstrap-menu', __('Navigation Bar'));
+    register_nav_menus(array(
+        'bootstrap-menu' => 'Novgation menu',
+        'Arabic-menu' => 'Arabic Version'
+    ));
 }
 
 function smartTarget_bootstrap_menu(){
