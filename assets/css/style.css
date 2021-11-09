@@ -350,6 +350,7 @@ background-color: #61bde2;
 {
   border-radius: 0% !important;
   border: none !important; 
+  text-align: center !important;
 }
 .navbar-light .navbar-nav .nav-link:hover
 {
