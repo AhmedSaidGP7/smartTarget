@@ -1,7 +1,5 @@
 <?php
 
-require_once ('wp-bootstrap-navwalker.php');
-
 
 // Title
 function smartTarget_theme_support(){
@@ -61,14 +59,5 @@ function smartTarget_regsiter_scripts(){
 add_action('wp_enqueue_scripts', 'smartTarget_regsiter_scripts');
 
 
-function smartTarget_bootstrap_menu(){
-    wp_nav_menu(array(
-        'theme_location' => 'bootstrap-menu',
-        'menu_class' => 'navbar sticky-top navbar-expand-lg navbar-light bg-light',
-        'container' => false,
-        'depth' => 2,
-        'walker' => new wp_bootstrap_navwalker() 
-    ))
-}
 
 ?>
