@@ -18,7 +18,7 @@ function smartTarget_menus()
   
     register_nav_menus(array(
         'bootstrap-menu' => 'Novgation menu',
-        'Arabic-menu' => 'Arabic Version'
+        
     ));
 }
 
