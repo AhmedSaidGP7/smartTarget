@@ -1,6 +1,7 @@
 <?php
 
-
+    // Include NavWalker Class For Bootstrap Navgation Menu
+    require_once('wp-bootstrap-navwalker.php');
 // Title
 function smartTarget_theme_support(){
     add_theme_support('title-tag');
@@ -24,7 +25,10 @@ function smartTarget_menus()
 function smartTarget_bootstrap_menu(){
     wp_nav_menu(array(
         'theme_location' => 'bootstrap-menu',
-        'menu_class' => 'navbar-nav'
+        'menu_class' => 'navbar-nav',
+        'container' => false,
+        'depth' => 2,
+        'walker' => new wp_bootstrap_navwalker()
     ));
 }
 
