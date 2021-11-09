@@ -22,7 +22,10 @@ function smartTarget_menus()
 }
 
 function smartTarget_bootstrap_menu(){
-    wp_nav_menu();
+    wp_nav_menu(array(
+        'theme_location' => 'bootstrap-menu',
+        'menu_class' => 'navbar-nav ms-auto mb-2 mb-lg-0'
+    ));
 }
 
 add_action('init', 'smartTarget_menus');
