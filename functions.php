@@ -18,7 +18,10 @@ function smartTarget_menus()
     register_nav_menus('bootstrap-menu', __('Navigation Bar'));
 }
 
-wp_nav_menu();
+function smartTarget_bootstrap_menu(){
+    wp_nav_menu();
+}
+
 add_action('init', 'smartTarget_menus');
 
 // Add Class active to actived item

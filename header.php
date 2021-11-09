@@ -56,6 +56,9 @@
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
 
+              <?php
+                smartTarget_bootstrap_menu()
+              ?> 
               <!-- Hard coded navbar 
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                   <li class="nav-item">
