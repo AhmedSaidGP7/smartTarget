@@ -56,17 +56,6 @@
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
 
-              <?php
-
-                wp_nav_menu(
-                    array(
-                        'menu' => 'primary',
-                         'container' => '',
-                        'theme_location' => 'primary',
-                        'items_wrap' => '<ul id="" class="navbar-nav ms-auto mb-2 mb-lg-0">%3$s</ul>'
-                    )
-                );
-              ?> 
               <!-- Hard coded navbar 
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                   <li class="nav-item">

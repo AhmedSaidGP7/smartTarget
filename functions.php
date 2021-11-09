@@ -14,17 +14,14 @@ add_action('after_setup_theme','smartTarget_theme_support');
 // Menus
 function smartTarget_menus()
 {
-    $locations = array(
-
-        'primary' => "Desktop Navbar", 
-        'footer' => "Footer Menu Items",
-        'arabic' => "Arabic Menu Items"
-    );
-
-    register_nav_menus($locations);
+  
+    register_nav_menus('bootstrap-menu', __('Navigation Bar'));
 }
 
+wp_nav_menu();
 add_action('init', 'smartTarget_menus');
+
+// Add Class active to actived item
 
 add_filter('nav_menu_css_class' , 'special_nav_class' , 10 , 2);
 
