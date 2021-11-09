@@ -1,4 +1,4 @@
-
+ <!--
             <footer id="home-footer" class="py-5">
               <div class="row">
                 <div class="col-lg-2 col-md-4 col-sm-12">
@@ -23,7 +23,8 @@
 
                   </ul>
                 </div>
-          
+         
+                
                 <div class="col-lg-2 col-md-4 col-sm-12">
                   <h5>Technical Solutions</h5>
                   <ul class="nav flex-column">
@@ -55,7 +56,7 @@
                   <li class="ms-3"><a class="link-dark" href="#"><i class="fab fa-twitter footericons"></i></a></li>
                 </ul>
               </div>
-            </footer>
+            </footer> -->
     
         <?php
           wp_footer();
