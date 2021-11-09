@@ -53,7 +53,7 @@
               </button>
 
 
-              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
 
 
               <?php
