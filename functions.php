@@ -34,6 +34,7 @@ function smartTarget_bootstrap_menu(){
 
 add_action('init', 'smartTarget_menus');
 
+
 // Add Class active to actived item
 
 add_filter('nav_menu_css_class' , 'special_nav_class' , 10 , 2);
