@@ -67,7 +67,7 @@
 .navbar-nav .dropdown-menu
 {
   
-  background-color: #72ccf0; 
+  background-color: #3fbbed; 
 
 } 
 
@@ -342,10 +342,15 @@ font-weight: 500;
 .navbar-nav .dropdown-menu
 {
 
-background-color: #72ccf0; 
+background-color: #61bde2; 
 
 } 
 
+.dropdown-menu
+{
+  border-radius: 0% !important;
+  border: none !important; 
+}
 .navbar-light .navbar-nav .nav-link:hover
 {
 color: white;
@@ -379,7 +384,7 @@ width: 4.25em;
 /* Wordpress navbar */
 nav ul a {
   color: white;
-  margin-left: 20px;
+  /* margin-left: 20px; */
   font-family: "Lato", Sans-serif;
   font-size: 14px;
   /*font-weight: 500;*/
